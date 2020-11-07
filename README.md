@@ -1,2 +1,4 @@
 # hello-world
-FirstChecking
+Hello Developers
+
+I am intereseted in latest web technologies and ML algortihms.
